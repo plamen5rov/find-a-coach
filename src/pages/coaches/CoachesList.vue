@@ -1,8 +1,8 @@
+<!-- @format -->
+
 <template>
-  <section>
-    FILTER
-  </section>
-  <section>
-    LIST OF COACHES
-  </section>
+	<div>
+		<section>FILTER</section>
+		<section>LIST OF COACHES</section>
+	</div>
 </template>
